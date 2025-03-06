@@ -1,0 +1,8 @@
+streamlit 
+langchain 
+langchain-community
+openai 
+duckduckgo-search 
+youtube-search-python 
+requests
+pytube
