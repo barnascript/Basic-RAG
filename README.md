@@ -1,4 +1,4 @@
-## Basic RAG System with Search and Movie Trailer Capabilities
+# Basic RAG System with Search and Movie Trailer Capabilities
 
 This project implements a Retrieval-Augmented Generation (RAG) system with search capabilities using Python and Streamlit. The app allows users to:
 
@@ -8,7 +8,7 @@ Perform general web searches using DuckDuckGo.
 Display session messages for the current search activity.
 The app is built with Streamlit for the user interface and integrates multiple APIs and libraries to provide a seamless experience.
 
-Features
+## Features
 
 1. Movie/Series Information
 
@@ -100,7 +100,7 @@ Session Messages:
 The app will display a log of the current search activity in the "Session Messages" section.
 Example Workflow
 
-Movie/Series Search
+## Movie/Series Search
 
 Select Movie/Series Information from the dropdown.
 Enter a movie name like "Inception".
