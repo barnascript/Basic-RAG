@@ -1,4 +1,4 @@
-# Basic RAG System with Search Capabilities
+# Basic RAG System with Search and Movie Trailer Capabilities
 
 This project implements a **Retrieval-Augmented Generation (RAG)** system with search capabilities using Python and Streamlit. The app allows users to:
 1. Retrieve information about movies/series (e.g., title, release date, IMDB rating, plot) using the OMDB API.
