@@ -146,5 +146,3 @@ streamlit run app.py
    - Extend the app to support TV shows, books, and other media types.
 
 ---
-
-Let me know if you need further assistance! 🚀
