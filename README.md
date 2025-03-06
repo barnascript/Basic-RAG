@@ -37,7 +37,7 @@ The app features a clean and interactive user interface built with Streamlit.
 Users can choose between Movie/Series Information and General Web Search using a dropdown menu.
 Approach
 
-1. RAG System
+## 1. RAG System
 
 The RAG system is built using LangChain.
 A RetrievalQA chain is used to retrieve information from a document (in this case, a Wikipedia page about movies).
@@ -70,7 +70,7 @@ pip install streamlit langchain openai duckduckgo-search pytube requests
 
 Create a .streamlit/secrets.toml file in your project directory and add your API keys:
 
-# .streamlit/secrets.toml
+ .streamlit/secrets.toml
 OPENAI_API_KEY = "your-openai-api-key"
 OMDB_API_KEY = "your-omdb-api-key"
 Replace your-openai-api-key and your-omdb-api-key with your actual API keys.
